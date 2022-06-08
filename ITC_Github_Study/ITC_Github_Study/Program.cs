@@ -8,6 +8,7 @@ namespace ITC_Github_Study
         {
             int n, m;
 
+
             n = numInput();
             m = numInput();
 
